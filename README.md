@@ -13,5 +13,3 @@ which gives executable permissions to `compile.sh` then compiles fizzbuzz and gi
     $ ./debug.sh fizzbuzz
 
 which gives executable permissions to `debug.sh` then runs the executable in GDB, with a breakpoint set at the very first entry point. To step through, simply enter the `step` command once, then keep pressing enter.
-
-If anyone wants to, feel free to send me an email about the project at jamiestm9@hotmail.com.
